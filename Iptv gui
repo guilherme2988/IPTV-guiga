@@ -30,7 +30,7 @@ https://stream2.canais.info/a/hls/discovery.m3u8?expires=1587437818&token=8afcb5
 #EXTINF:-1 tvg-logo="https://archive.org/download/fyahras535i_gmail_Hbo/hbo.jpg" group-title="CANAIS",HBO HD
 https://stream2.canais.info/a/hls/hbo.m3u8?expires=1587437932&token=300dceec1b70694fc930d33ec38a2717
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/globo_202001/GLOBO.jpg" group-title="CANAIS" ="ABERTOS",GLOBO
+#EXTINF:-1 tvg-logo="https://archive.org/download/globo_202001/GLOBO.jpg" group-title="CANAIS" subgroup="ABERTOS",GLOBO
 https://stream2.canais.info/a/hls/bobosp.m3u8?expires=1587437988&token=22a4a0ef56dffb581aec6519d8fb70d2
 
 ###################################################
