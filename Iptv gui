@@ -37,6 +37,14 @@ https://stream2.canais.info/a/hls/bobosp.m3u8?expires=1587437988&token=22a4a0ef5
 ###################################################
 ##FILMES##
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/tucows_44068_Mortal_Kombat/mk.gif" group-title="FILMES",MORTAL KOMBAT 2020
+#EXTINF:-1 tvg-logo="https://archive.org/download/tucows_44068_Mortal_Kombat/mk.gif" group-title="FILMES" subgroup="AAÇAO",MORTAL KOMBAT 2020
 https://download.vendedordesucesso.com.br/c/RCFServer5/ondemand/MRTLKMBTLGNSAVNGCDSCRPNDUB.mp4?expires=1587438068&token=03178770aa7f4b8d6bb715e4a2ac8592
 
+EXTINF:-1 tvg-logo="https://archive.org/download/tucows_44068_Mortal_Kombat/mk.gif" group-title="FILMES" subgroup="AAÇAO",MORTAL KOMBAT 2020
+https://download.vendedordesucesso.com.br/c/RCFServer5/ondemand/MRTLKMBTLGNSAVNGCDSCRPNDUB.mp4?expires=1587438068&token=03178770aa7f4b8d6bb715e4a2ac8592
+
+EXTINF:-1 tvg-logo="https://archive.org/download/tucows_44068_Mortal_Kombat/mk.gif" group-title="FILMES" subgroup="desenho",MORTAL KOMBAT 2020
+https://download.vendedordesucesso.com.br/c/RCFServer5/ondemand/MRTLKMBTLGNSAVNGCDSCRPNDUB.mp4?expires=1587438068&token=03178770aa7f4b8d6bb715e4a2ac8592
+
+EXTINF:-1 tvg-logo="https://archive.org/download/tucows_44068_Mortal_Kombat/mk.gif" group-title="FILMES" subgroup="bom",MORTAL KOMBAT 2020
+https://download.vendedordesucesso.com.br/c/RCFServer5/ondemand/MRTLKMBTLGNSAVNGCDSCRPNDUB.mp4?expires=1587438068&token=03178770aa7f4b8d6bb715e4a2ac8592
