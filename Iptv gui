@@ -37,17 +37,5 @@ https://stream2.canais.info/a/hls/bobosp.m3u8?expires=1587437988&token=22a4a0ef5
 ###################################################
 ##FILMES##
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2LpxpQR" group-title="FILMES" subgroup="DESENHO",RIVERDALE
-
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/tucows_44068_Mortal_Kombat/mk.gif" group-title="FILMES" pltv-subgroup="DESENHO",MORTAL KOMBAT 2020
+#EXTINF:-1 tvg-logo="https://archive.org/download/tucows_44068_Mortal_Kombat/mk.gif" group-title="FILMES",MORTAL KOMBAT 2020
 https://download.vendedordesucesso.com.br/c/RCFServer5/ondemand/MRTLKMBTLGNSAVNGCDSCRPNDUB.mp4?expires=1587438068&token=03178770aa7f4b8d6bb715e4a2ac8592
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2HrDLO0" group-title="FILMES" subgroup="ACAO",1x1 NARCOS
-https://www.blogger.com/video-play.mp4?
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2qYX2PE" group-title="FILMES" subgroup="COMEDIA",1x4
-https://www.blogger.com/video-play.mp4?contentId=4fc2a9a16759d80a
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2JgPvYR" group-title="FILMES" subgroup="DESENHO",1x4
-https://www.blogger.com/video-play.mp4?contentId=46509e127a4b0262
