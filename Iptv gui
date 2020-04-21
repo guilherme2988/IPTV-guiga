@@ -19,7 +19,7 @@ https://stream2.canais.info/a/hls/disney.m3u8?expires=1587434377&token=950bf326a
 https://stream2.canais.info/a/hls/disneyxd.m3u8?expires=1587434437&token=4a98c726a560d7e35796a9987dcc67cd
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/AnimalPlanet/animal%20planet.png" group-title="CANAIS",ANIMAL PLANET
-https://stream2.canais.info/a/hls/animalplanet.m3u8?expires=1587437643&token=fcb02524adf3fc849feee0dce70fb790
+https://live.multicanais.com/live/animalplanetsd/video.m3u8?md5=CqcMPWsbifnIGfap4LDaSA&expires=1587505548
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/images_20200419_1904/images.png" group-title="CANAIS",HISTORY
 https://stream2.canais.info/a/hls/history.m3u8?expires=1587437716&token=610f89edc4935ac9494f27c516d39a9c
