@@ -1,7 +1,7 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX CHANEL
-https://bit.ly/3cPX56V
+http://23.237.78.82:30010/streams/202_.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG
 https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38224a34bd992e3876ea98a2f80d
