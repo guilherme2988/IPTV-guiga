@@ -13,7 +13,7 @@ http://maxptv.net:8080/live/rosa/rosa/12.m3u8
 http://maxptv.net:8080/live/rosa/rosa/53.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0137/Disney-Channel.png" group-title="CANAIS",DISNEY CHANNEL
-https://stream2.canais.info/a/hls/disney.m3u8?expires=1587434377&token=950bf326a20eedfe991bdc4dd61eacd9
+http://nitro.ltd:25461/live/Max30/WQEyZd5Ilf/41358.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/DisneyXd/disney%20xd.png" group-title="CANAIS",DISNEY XD
 https://stream2.canais.info/a/hls/disneyxd.m3u8?expires=1587434437&token=4a98c726a560d7e35796a9987dcc67cd
