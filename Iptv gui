@@ -4,7 +4,7 @@
 http://maxptv.net:8080/live/rosa/rosa/21.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG
-https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38224a34bd992e3876ea98a2f80d
+http://maxptv.net:8080/live/rosa/rosa/101.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/20191203_20191203_0207/Nick.png" group-title="CANAIS",NICHELODEON
 https://stream2.canais.info/a/hls/nick.m3u8?expires=1587434237&token=4c259ff112346b98269ca7434abec924
