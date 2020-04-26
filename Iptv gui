@@ -10,7 +10,7 @@ http://maxptv.net:8080/live/rosa/rosa/101.m3u8
 https://stream2.canais.info/a/hls/nick.m3u8?expires=1587434237&token=4c259ff112346b98269ca7434abec924
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0159/Tooncast.png" group-title="CANAIS",TOONCAST
-https://stream2.canais.info/a/hls/tooncast.m3u8?expires=1587434320&token=55ad4ca5d7ae9b2f39dec97ca07b053d
+http://maxptv.net:8080/live/rosa/rosa/53.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0137/Disney-Channel.png" group-title="CANAIS",DISNEY CHANNEL
 https://stream2.canais.info/a/hls/disney.m3u8?expires=1587434377&token=950bf326a20eedfe991bdc4dd61eacd9
