@@ -2130,7 +2130,7 @@ https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38
 https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38224a34bd992e3876ea98a2f80d
 #EXTM3U
 Canais abertos
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS ABERTO",LISTA ATUALIZADA 01/04/20
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS ABERTO",LISTA ATUALIZADA 01/05/20
 https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 #EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS ABERTO",LISTA VIP PARA INSCRITOS NO CANAL IPTV GUIGA!!
 https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
@@ -2141,7 +2141,7 @@ http://proxyts.canais.org:8080/a/hls1/sbt.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTO",Record
 http://proxyts.canais.org:8080/a/hls1/recordsp.m3u8 
 Documentários##################
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS DOCUMENTARIOS",LISTA ATUALIZADA 01/04/20
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS DOCUMENTARIOS",LISTA ATUALIZADA 01/05/20
 https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 #EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS DOCUMENTARIOS",LISTA VIP PARA INSCRITOS NO CANAL IPTV GUIGA!!!!
 https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
@@ -2164,7 +2164,7 @@ http://proxyts.canais.org:8080/a/hls1/natgeo.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DOCUMENTARIOS",Natgeo wild
 http://proxyts.canais.org:8080/a/hls1/natgeowild.m3u8 
 Esportes###################
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS ESPORTE",LISTA ATUALIZADA 01/04/20
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS ESPORTE",LISTA ATUALIZADA 01/05/20
 https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 #EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS ESPORTE",LISTA VIP PARA INSCRITOS NO CANAL IPTV GUIGA!!
 https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
@@ -2185,7 +2185,7 @@ http://proxyts.canais.org:8080/a/hls1/foxsports1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Fox sport 2
 http://proxyts.canais.org:8080/a/hls1/foxsports2.m3u8 
 Filmes e séries
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS FILMES E SERIE",LISTA ATUALIZADA 01/04/20
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS FILMES E SERIE",LISTA ATUALIZADA 01/05/20
 https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 #EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS FILMES E SERIE",LISTA VIP PARA INSCRITOS NO CANAL IPTV GUIGA!!
 https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
@@ -2228,7 +2228,7 @@ http://proxyts.canais.org:8080/a/hls1/universal.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Warner
 http://proxyts.canais.org:8080/a/hls1/warner.m3u8 
 Infantil ######################
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS DESENHOS",LISTA ATUALIZADA 01/04/20
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS DESENHOS",LISTA ATUALIZADA 01/05/20
 https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 #EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS DESENHOS",LISTA VIP PARA INSCRITOS NO CANAL IPTV GUIGA!!
 https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
@@ -2253,7 +2253,7 @@ http://proxyts.canais.org:8080/a/hls1/nickjr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DESENHOS",TOONCAST
 http://proxyts.canais.org:8080/a/hls1/tooncast.m3u8 
 Variedades#####################
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS VARIEDADES",LISTA ATUALIZADA 01/04/20
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS VARIEDADES",LISTA ATUALIZADA 01/05/20
 https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 #EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS VARIEDADES",LISTA VIP PARA INSCRITOS NO CANAL IPTV GUIGA!!
 https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
@@ -2294,7 +2294,7 @@ http://proxyts.canais.org:8080/a/hls1/tlc.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS VARIEDADES",Viva
 http://proxyts.canais.org:8080/a/hls1/viva.m3u8 
 Noticias################ 
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS NOTICIAS",LISTA ATUALIZADA 01/04/20
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS NOTICIAS",LISTA ATUALIZADA 01/05/20
 https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 #EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS NOTICIAS",LISTA VIP PARA INSCRITOS NO CANAL IPTV GUIGA!!
 https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
