@@ -2184,6 +2184,24 @@ http://proxyts.canais.org:8080/a/hls1/espnbrasil.m3u8
 http://proxyts.canais.org:8080/a/hls1/foxsports1.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Fox sport 2
 http://proxyts.canais.org:8080/a/hls1/foxsports2.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Premiere clubes
+http://proxyts.canais.org:8080/a/hls1/premiereclubes.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Premiere 2
+http://proxyts.canais.org:8080/a/hls1/premiere2.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Premiere 3
+http://proxyts.canais.org:8080/a/hls1/premiere3.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Premiere 4
+http://proxyts.canais.org:8080/a/hls1/premiere4.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Premiere 5
+http://proxyts.canais.org:8080/a/hls1/premiere5.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Premiere 6
+http://proxyts.canais.org:8080/a/hls1/premiere6.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Premiere 7
+http://proxyts.canais.org:8080/a/hls1/premiere7.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Premiere 8
+http://proxyts.canais.org:8080/a/hls1/premiere8.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Premiere 9
+http://proxyts.canais.org:8080/a/hls1/premiere9.m3u8 
 Filmes e séries
 #EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS FILMES E SERIE",LISTA ATUALIZADA 01/05/20
 https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
