@@ -2130,21 +2130,15 @@ https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38
 https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38224a34bd992e3876ea98a2f80d
 #EXTM3U
 Canais abertos
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS ABERTO",LISTA ATUALIZADA 01/05/20
-https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS ABERTO",LISTA VIP PARA INSCRITOS NO CANAL IPTV GUIGA!!
-https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTO",Globo
+http://proxyts.canais.org:8080/a/hls1/bobosp.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTO",Band
 http://proxyts.canais.org:8080/a/hls1/band.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTO",SBT
-http://cdn.cracklevideos.cf/live/sbtsp/chunks.m3u8 
+http://cdn.cracklevideos.cf/live/sbtsp/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTO",Record
 http://proxyts.canais.org:8080/a/hls1/recordsp.m3u8 
 Documentários##################
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS DOCUMENTARIOS",LISTA ATUALIZADA 01/05/20
-https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS DOCUMENTARIOS",LISTA VIP PARA INSCRITOS NO CANAL IPTV GUIGA!!!!
-https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DOCUMENTARIOS",Animal planet
 http://proxyts.canais.org:8080/a/hls1/animalplanet.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DOCUMENTARIOS",DiscoveryChannel
@@ -2164,10 +2158,6 @@ http://proxyts.canais.org:8080/a/hls1/natgeo.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DOCUMENTARIOS",Natgeo wild
 http://proxyts.canais.org:8080/a/hls1/natgeowild.m3u8 
 Esportes###################
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS ESPORTE",LISTA ATUALIZADA 01/05/20
-https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS ESPORTE",LISTA VIP PARA INSCRITOS NO CANAL IPTV GUIGA!!
-https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Band sport
 http://proxyts.canais.org:8080/a/hls1/bandsports.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Combate
@@ -2202,25 +2192,39 @@ http://proxyts.canais.org:8080/a/hls1/premiere7.m3u8
 http://proxyts.canais.org:8080/a/hls1/premiere8.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Premiere 9
 http://proxyts.canais.org:8080/a/hls1/premiere9.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",SporTV
+http://proxyts.canais.org:8080/a/hls1/sportv1.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Sport 2 
+http://proxyts.canais.org:8080/a/hls1/sportv2.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Sportv3
+http://proxyts.canais.org:8080/a/hls1/sportv3.m3u8 
 Filmes e séries
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS FILMES E SERIE",LISTA ATUALIZADA 01/05/20
-https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS FILMES E SERIE",LISTA VIP PARA INSCRITOS NO CANAL IPTV GUIGA!!
-https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",A&e
 http://proxyts.canais.org:8080/a/hls1/aie.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Amc
 http://proxyts.canais.org:8080/a/hls1/amc.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Axn 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Axn
 http://proxyts.canais.org:8080/a/hls1/axn.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Cine Max
 http://proxyts.canais.org:8080/a/hls1/cinemax.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Fox
-http://proxyts.canais.org:8080/a/hls1/fox.m3u8  
+http://proxyts.canais.org:8080/a/hls1/fox.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Fox Premium 1
+http://proxyts.canais.org:8080/a/hls1/foxpremium1.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Fox Premium 2
+http://proxyts.canais.org:8080/a/hls1/foxpremium2.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",FX
 http://proxyts.canais.org:8080/a/hls1/fx.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Hbo
 http://proxyts.canais.org:8080/a/hls1/hbo.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Hbo 2
+http://proxyts.canais.org:8080/a/hls1/hbo2.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Hbo family
+http://proxyts.canais.org:8080/a/hls1/hbofamily.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Hbo plus
+http://proxyts.canais.org:8080/a/hls1/hboplus.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Hbo signature
+http://proxyts.canais.org:8080/a/hls1/hbosignature.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Max 
 http://proxyts.canais.org:8080/a/hls1/max.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Max prime 
@@ -2241,15 +2245,27 @@ http://proxyts.canais.org:8080/a/hls1/studiouniversal.m3u8
 http://proxyts.canais.org:8080/a/hls1/syfy.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Tcm
 http://proxyts.canais.org:8080/a/hls1/tcm.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Telecine action
+http://proxyts.canais.org:8080/a/hls1/telecineaction.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Telecine cult
+http://proxyts.canais.org:8080/a/hls1/telecinecult.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Telecine fun
+http://proxyts.canais.org:8080/a/hls1/telecinefun.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Telecine pipoca
+http://proxyts.canais.org:8080/a/hls1/telecinepipoca.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Telecine Premium
+http://proxyts.canais.org:8080/a/hls1/telecinepremium.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Telecine touch
+http://proxyts.canais.org:8080/a/hls1/telecinetouch.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",TNT
+http://proxyts.canais.org:8080/a/hls1/tnt.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",TNT séries 
+http://proxyts.canais.org:8080/a/hls1/tntseries.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Universal channel
 http://proxyts.canais.org:8080/a/hls1/universal.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Warner
 http://proxyts.canais.org:8080/a/hls1/warner.m3u8 
 Infantil ######################
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS DESENHOS",LISTA ATUALIZADA 01/05/20
-https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS DESENHOS",LISTA VIP PARA INSCRITOS NO CANAL IPTV GUIGA!!
-https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DESENHOS",Boomerang
 http://proxyts.canais.org:8080/a/hls1/boomerang.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DESENHOS",Cartoon network
@@ -2271,10 +2287,6 @@ http://proxyts.canais.org:8080/a/hls1/nickjr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DESENHOS",TOONCAST
 http://proxyts.canais.org:8080/a/hls1/tooncast.m3u8 
 Variedades#####################
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS VARIEDADES",LISTA ATUALIZADA 01/05/20
-https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS VARIEDADES",LISTA VIP PARA INSCRITOS NO CANAL IPTV GUIGA!!
-https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 #EXTINF:-1 tvg-logo="" group-title="CANAIS VARIEDADES",ARTE1
 http://proxyts.canais.org:8080/a/hls1/arte1.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS VARIEDADES",Bis
@@ -2312,10 +2324,6 @@ http://proxyts.canais.org:8080/a/hls1/tlc.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS VARIEDADES",Viva
 http://proxyts.canais.org:8080/a/hls1/viva.m3u8 
 Noticias################ 
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS NOTICIAS",LISTA ATUALIZADA 01/05/20
-https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
-#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS NOTICIAS",LISTA VIP PARA INSCRITOS NO CANAL IPTV GUIGA!!
-https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 #EXTINF:-1 tvg-logo="" group-title="CANAIS NOTICIAS",Band News
 http://proxyts.canais.org:8080/a/hls1/bandnews.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS NOTICIAS",Globo News
