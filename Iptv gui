@@ -2137,7 +2137,7 @@ https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTO",Band
 http://proxyts.canais.org:8080/a/hls1/band.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTO",SBT
-http://proxyts.canais.org:8080/a/hls1/sbt.m3u8 
+http://cdn.cracklevideos.cf/live/sbtsp/chunks.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTO",Record
 http://proxyts.canais.org:8080/a/hls1/recordsp.m3u8 
 Documentários##################
