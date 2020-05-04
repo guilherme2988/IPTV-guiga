@@ -2128,8 +2128,17 @@ https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38
 https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38224a34bd992e3876ea98a2f80d
 #EXTMF:logo="https://archive.org/download/boomerang_201708/boomeng.pg" grup-tile="CAIS",BOO
 https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38224a34bd992e3876ea98a2f80d
+
 #EXTM3U
+#EXTINF: -1 tvg-logo = "https://archive.org/download/imaages/imaages.png" group-title = "AJUDE A LISTA GRATIS", DOAÇAO DE QUALQUER VALOR JA AJUDA!
+https://archive.org/download/in-shot-20200504-190653175/InShot_20200504_190653175.png
+#EXTINF: -1 tvg-logo = "https://archive.org/download/imaages/imaages.png" group-title = "AJUDE A LISTA GRATIS", ZAP 41 985231741
+https://archive.org/download/in-shot-20200504-190653175/InShot_20200504_190653175.png
 Canais abertos
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS ABERTO", LISTA ATUALIZADA 04/05/2020
+https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS ABERTO", AJUDE A LISTA GRATIS CONTINUAR!
+https://archive.org/download/in-shot-20200504-190653175/InShot_20200504_190653175.png
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTO",Globo
 http://proxyts.canais.org:8080/a/hls1/bobosp.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTO",Band
@@ -2139,6 +2148,10 @@ http://cdn.cracklevideos.cf/live/sbtsp/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTO",Record
 http://proxyts.canais.org:8080/a/hls1/recordsp.m3u8 
 Documentários##################
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS DOCUMENTARIOS", LISTA ATUALIZADA 04/05/2020
+https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS DOCUMENTARIOS", AJUDE A LISTA GRATIS CONTINUAR!
+https://archive.org/download/in-shot-20200504-190653175/InShot_20200504_190653175.png
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DOCUMENTARIOS",Animal planet
 http://proxyts.canais.org:8080/a/hls1/animalplanet.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DOCUMENTARIOS",DiscoveryChannel
@@ -2158,6 +2171,10 @@ http://proxyts.canais.org:8080/a/hls1/natgeo.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DOCUMENTARIOS",Natgeo wild
 http://proxyts.canais.org:8080/a/hls1/natgeowild.m3u8 
 Esportes###################
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS ESPORTE", LISTA ATUALIZADA 04/05/2020
+https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS ESPORTE", AJUDE A LISTA GRATIS CONTINUAR!
+https://archive.org/download/in-shot-20200504-190653175/InShot_20200504_190653175.png
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Band sport
 http://proxyts.canais.org:8080/a/hls1/bandsports.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Combate
@@ -2199,6 +2216,10 @@ http://proxyts.canais.org:8080/a/hls1/sportv2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Sportv3
 http://proxyts.canais.org:8080/a/hls1/sportv3.m3u8 
 Filmes e séries
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS FILMES E SERIE", LISTA ATUALIZADA 04/05/2020
+https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS FILMES E SERIE", AJUDE A LISTA GRATIS CONTINUAR!
+https://archive.org/download/in-shot-20200504-190653175/InShot_20200504_190653175.png
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",A&e
 http://proxyts.canais.org:8080/a/hls1/aie.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Amc
@@ -2266,6 +2287,10 @@ http://proxyts.canais.org:8080/a/hls1/universal.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Warner
 http://proxyts.canais.org:8080/a/hls1/warner.m3u8 
 Infantil ######################
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS DESENHOS", LISTA ATUALIZADA 04/05/2020
+https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS DESENHOS", AJUDE A LISTA GRATIS CONTINUAR!
+https://archive.org/download/in-shot-20200504-190653175/InShot_20200504_190653175.png
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DESENHOS",Boomerang
 http://proxyts.canais.org:8080/a/hls1/boomerang.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DESENHOS",Cartoon network
@@ -2287,6 +2312,10 @@ http://proxyts.canais.org:8080/a/hls1/nickjr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DESENHOS",TOONCAST
 http://proxyts.canais.org:8080/a/hls1/tooncast.m3u8 
 Variedades#####################
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS VARIEDADES", LISTA ATUALIZADA 04/05/2020
+https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS VARIEDADES", AJUDE A LISTA GRATIS CONTINUAR!
+https://archive.org/download/in-shot-20200504-190653175/InShot_20200504_190653175.png
 #EXTINF:-1 tvg-logo="" group-title="CANAIS VARIEDADES",ARTE1
 http://proxyts.canais.org:8080/a/hls1/arte1.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS VARIEDADES",Bis
@@ -2324,6 +2353,10 @@ http://proxyts.canais.org:8080/a/hls1/tlc.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS VARIEDADES",Viva
 http://proxyts.canais.org:8080/a/hls1/viva.m3u8 
 Noticias################ 
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS NOTICIAS", LISTA ATUALIZADA 04/05/2020
+https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
+#EXTINF: -1 tvg-logo = "https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title = "CANAIS NOTICIAS", AJUDE A LISTA GRATIS CONTINUAR!
+https://archive.org/download/in-shot-20200504-190653175/InShot_20200504_190653175.png
 #EXTINF:-1 tvg-logo="" group-title="CANAIS NOTICIAS",Band News
 http://proxyts.canais.org:8080/a/hls1/bandnews.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS NOTICIAS",Globo News
