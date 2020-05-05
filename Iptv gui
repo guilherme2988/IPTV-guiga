@@ -2128,7 +2128,6 @@ https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38
 https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38224a34bd992e3876ea98a2f80d
 #EXTMF:logo="https://archive.org/download/boomerang_201708/boomeng.pg" grup-tile="CAIS",BOO
 https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38224a34bd992e3876ea98a2f80d
-
 #EXTM3U
 #EXTINF: -1 tvg-logo = "https://archive.org/download/imaages/imaages.png" group-title = "AJUDE A LISTA GRATIS", DOAÇAO DE QUALQUER VALOR JA AJUDA!
 https://archive.org/download/in-shot-20200504-190653175/InShot_20200504_190653175.png
